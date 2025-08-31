@@ -6,10 +6,10 @@
 
 :root {
   color-scheme: light;
-  --global-bg-color: #{$blue-color-dark};
+  --global-bg-color: #{$grey-color};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$blue-color-light};
-  --global-text-color-light: #{$grey-color};
+  --global-text-color: #{$blue-color-dark};
+  --global-text-color-light: #{$blue-color-dark};
   --global-theme-color: #{$blue-color-light};
   --global-hover-color: #{$blue-color-light};
   --global-hover-text-color: #{$blue-color-dark};
