@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: 'Ubuntu Mono';
 }
 
 hr {
@@ -28,10 +29,12 @@ table {
   th {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
+    font-family: 'Ubuntu Mono';
   }
 
   th {
     font-weight: bold;
+    font-family: 'Ubuntu Mono';
   }
 }
 
@@ -198,7 +201,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family:serif;
+    font-family:'Ubuntu Mono';
 
     p {
       display: inline-block;
